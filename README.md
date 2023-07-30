@@ -2,8 +2,4 @@
 
 ## I'm a Frontend Developer
 
-- 🔭 I’m currently working on my personal portfolio
-- 🌱 I’m currently learning ReactJS
-- 👯 I’m looking to collaborate on with others on ReactJS.
-- ⚡ Fun fact: I love eSports, basketball, and playing guitar.
-
+I have a strong passion for everything related to software development, but that doesn't mean I can repair your broken washing machine. 😂
